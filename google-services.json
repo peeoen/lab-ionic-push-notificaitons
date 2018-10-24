@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "628728029769",
+    "firebase_url": "https://notifications-7e7fc.firebaseio.com",
+    "project_id": "notifications-7e7fc",
+    "storage_bucket": "notifications-7e7fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628728029769:android:de7bc34ee1982da4",
+        "android_client_info": {
+          "package_name": "com.workmedium.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628728029769-grhrsd5avmlq47l8v37g6b0hv5nac0b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrsgz54lYVQMF01CIKnzk3v9UovHg8MLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
